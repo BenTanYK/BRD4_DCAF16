@@ -252,7 +252,7 @@ for i in range(1, n_red+1):
 """Protein-protein unbinding"""
 
 # Total number of steps
-total_steps = 250000 
+total_steps = 250000
 
 # Number of steps to run between incrementing r_0
 increment_steps = 100
